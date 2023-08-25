@@ -1,2 +1,3 @@
 # image-processsing
-binarize image with suolva 
+ - binarize image with suolva
+ - image super resolution
